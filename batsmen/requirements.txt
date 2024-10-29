@@ -1,0 +1,13 @@
+Flask==3.0.3
+Flask-Cors==5.0.0
+joblib==1.4.0
+opencv-python==4.9.0.80
+Pillow==11.0.0
+torch==2.5.0
+mediapipe==0.10.14
+ultralytics==8.2.85
+torchvision==0.20.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+timm==1.0.11
